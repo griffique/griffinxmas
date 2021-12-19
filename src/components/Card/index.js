@@ -103,15 +103,23 @@ const Card = () => {
                   in fall 2021 and transitioned into a new career in web
                   development with{" "}
                   <a target="_blank" href="https://s4netquest.com/">
-                    S4 Netquest.
+                    S4 Netquest
                   </a>
+                  . You can find the open source code for this card on her{" "}
+                  <a
+                    target="_blank"
+                    href="https://github.com/griffique/griffinxmas"
+                  >
+                    Github
+                  </a>
+                  .
                 </p>
                 <p>
                   Pickles and Toki are well and enjoying having more space in
                   the new house. We wish you all the best for 2022!
                 </p>
                 <button
-                  className="button is-success mt-1"
+                  className="button is-success"
                   onClick={() => {
                     setFlipped(false);
                   }}
