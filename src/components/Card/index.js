@@ -84,7 +84,10 @@ const Card = () => {
                 <p>
                   Hayes has been hard at work on international online music
                   school{" "}
-                  <a target="_blank" href="https://www.mandolinsecrets.com/">
+                  <a
+                    target="_blank"
+                    href="https://www.mandolinsecrets.com/a/39076/M2aN9LmJ"
+                  >
                     Mandolin Secrets
                   </a>{" "}
                   and recently launched the Guitar Club section of the site.
