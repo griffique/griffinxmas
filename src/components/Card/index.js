@@ -79,7 +79,7 @@ const Card = () => {
                 <h1>Happy Holidays from the Griffins</h1>
                 <p>
                   In 2021 the Griffins moved back to Columbus, OH! We are very
-                  excited to be closer to our family and friends.
+                  excited to be closer to many of our family and friends.
                 </p>
                 <p>
                   Hayes has been hard at work on international online music
