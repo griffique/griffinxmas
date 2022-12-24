@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import styles from "./styles.module.sass";
 import pickles from "./images/pickles.jpg";
 import toki from "./images/toki.jpg";
-import griffins from "./images/griffins.JPG";
+import griffins from "./images/griffins.jpg";
 
 const cardVariants = {
   flipped: {
