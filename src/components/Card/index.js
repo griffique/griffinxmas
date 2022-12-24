@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import styles from "./styles.module.sass";
 import pickles from "./images/pickles.jpg";
 import toki from "./images/toki.jpg";
-import griffins from "./images/griffins.jpg";
+import griffins from "./images/griffins.JPG";
 
 const cardVariants = {
   flipped: {
@@ -78,46 +78,40 @@ const Card = () => {
               >
                 <h1>Happy Holidays from the Griffins</h1>
                 <p>
-                  In 2021 the Griffins moved back to Columbus, OH! We are very
-                  excited to be closer to many of our family and friends.
+                  In 2022 the Griffins continued to enjoy being back in Columbus
+                  closer to friends and family.
                 </p>
                 <p>
-                  Hayes has been hard at work on international online music
-                  school{" "}
+                  Hayes has been teaching lessons at Denison University and
+                  Pikeville, as well as privately, and recently went independent
+                  with his online music school,{" "}
                   <a
+                    href="https://hayesgriffin.com/"
+                    rel="noreferrer"
                     target="_blank"
-                    href="https://www.mandolinsecrets.com/a/39076/M2aN9LmJ"
                   >
-                    Mandolin Secrets
-                  </a>{" "}
-                  and recently launched the Guitar Club section of the site.
-                </p>
-                <p>
-                  Quinn completed the{" "}
-                  <a
-                    target="_blank"
-                    href="https://www.shecodes.io/stories/Quinn-junior-react-developer"
-                  >
-                    SheCodes workshop
-                  </a>{" "}
-                  in fall 2021 and transitioned into a new career in web
-                  development with{" "}
-                  <a target="_blank" href="https://s4netquest.com/">
-                    S4 Netquest
-                  </a>
-                  . You can find the open source code for this card on her{" "}
-                  <a
-                    target="_blank"
-                    href="https://github.com/griffique/griffinxmas"
-                  >
-                    Github
+                    Guitar Club
                   </a>
                   .
                 </p>
                 <p>
-                  Pickles and Toki are well and enjoying having more space in
-                  the new house. We wish you all the best for 2022!
+                  Quinn completed the Google UX Designer course and continues to
+                  enjoy her{" "}
+                  <a
+                    href="https://quinneringriffin.com/"
+                    rel="noreferrer"
+                    target="_blank"
+                  >
+                    new career path
+                  </a>{" "}
+                  as a web designer and developer.
                 </p>
+                <p>
+                  Highlights of 2022 include spending time with Pickles and
+                  Toki; lots of swimming, biking and running; and, this past
+                  summer, visiting friends in Sweden.
+                </p>
+                <br />
                 <button
                   className="button is-success"
                   onClick={() => {
